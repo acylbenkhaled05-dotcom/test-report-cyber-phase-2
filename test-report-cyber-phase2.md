@@ -28,11 +28,12 @@ This is a test of the lastest version of the website, for the previous tests we 
 
 **Overall risk level:** High 
 
-**Top 4 immediate actions:**  
+**Top 5 immediate actions:**  
 1.  Secure the admin accounts and admin priviledges (e.g remove the option to be an admin in the menu)
-2.  Use HTTPS + encrypt the requests 
-3.  reject weak password
-4.  cooldown for account creations to avoid bots
+2.  User credentials are not encrypted in the database
+3.  Use HTTPS + encrypt the requests 
+4.  reject weak password
+5.  cooldown for account creations to avoid bots
 
 ---
 
